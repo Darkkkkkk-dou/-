@@ -21,7 +21,7 @@ const CONFIG = {
   user: [
     {
       // 男(女)朋友的名字（或昵称或网名）
-      userName: "。1",
+      userName: "。",
       // 用户列表的`微信号`
       userId: "oSrrH6IjWuBL8Zc2EObEfxCYfa9o",
       // 星座
@@ -45,23 +45,23 @@ const CONFIG = {
   // true 开启，false 关闭
   plugins: {
     // 天气预报
-    weather: true,
+    weather: false,
     // 天气接口 默认接口1，可选接口1、2，接口2暂时无法使用
     weatherType: 1,
     // 星座运势
-    star: true,
+    star: false,
     // 土味情话
-    saylove: true,
+    saylove: false,
     // 健康小提示
-    healthtip: true,
+    healthtip: false,
     // 毒鸡汤
-    duJiTang: true,
+    duJiTang: false,
     // 早安心语
-    zaoAn: true,
+    zaoAn: false,
     // 晚安心语
-    wanAn: true,
+    wanAn: false,
     // 彩虹屁
-    caiHongPi: true,
+    caiHongPi: false,
   },
 };
 
