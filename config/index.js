@@ -6,13 +6,13 @@ const CONFIG = {
   // ================================高级配置 - 需要修改================================
 
   // 微信公众号的appID
-  APP_ID: "wx8cce380b885eda7b",
+  APP_ID: "wx332c4c8b48b02bdf",
 
   // 微信公众号的appsecret
-  APP_SECRET: "ed4be85c5b4c9ec20ff6a4573c1c0b9e",
+  APP_SECRET: "f27c9e4029c938c0b9a8da7aabfd265c",
 
   // 微信公众号的模板ID
-  TEMPLATE_ID: "hHFo2kk59WI7Ef8R2Ry0_IMQWbUlWIPLfJd1lIkMkuo",
+  TEMPLATE_ID: "	34dMzoBjm3LqzbxBGzifuVdT_VOBhDxZVuDlNRamoRQ",
 
   // 天行API的key
   TXApiKey: "96fd738b99e30ffa1014dad845cd0764",
